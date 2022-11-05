@@ -1,7 +1,10 @@
-### Call me Amir,
+### Call me Amir
 
-#### A project in development since 1993.
+#### I'm A project in development since 1993.
 
+<p align="right">
+<img width="200" src="./assets/avatar.png" alt="me, in pixel form">
+</p>
 Hi there! As you may have already guessed, My name is Amir.
 
 I'm a back-end developer.
