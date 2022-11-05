@@ -17,11 +17,23 @@ Think of it as
 
 
 
-#### technologies that I work with
+#### technologies that I have worked with
 <p align="center">
 <img width="200" src="./assets/gopher.png" alt="go">
 <img width="200" src="./assets/rust.png" alt="rust">
 <img width="200" src="./assets/postgresql.png" alt="postgresql">
+</p>
+
+<p align="center">
+<img width="200" src="./assets/nix.png" alt="nix">
+<img width="200" src="./assets/lua.png" alt="lua">
+<img width="200" src="./assets/redis.png" alt="redis">
+<img width="200" src="./assets/mongodb.png" alt="mongodb">
+</p>
+
+#### I'm also highly interested in these concepts 
+<p align="center">
+<img width="200" src="./assets/immuatable_architecture.png.png" alt="immutable architecture">
 </p>
 
 
