@@ -14,12 +14,15 @@ but less bugs and legacy.
 
 Think of it as:
 
+<p align="center">
+
 **static languages** -- over -> **dynamic languages**
 
-**strong type-system** --over -> **weak type-system** 
+**strong type-system** -- over -> **weak type-system** 
 
-**immutible architecture** --over -> **mutable systems**
+**immutible architecture** -- over -> **mutable systems**
 
+</p>
 
 
 
