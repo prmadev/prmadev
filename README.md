@@ -12,10 +12,14 @@ I'm passionate for developing software that once they work,
 they work forever. Which means having some more overhead,
 but less bugs and legacy.
 
-Think of it as
+Think of it as:
+
 **static languages** -- over -> **dynamic languages**
+
 **strong type-system** --over -> **weak type-system** 
+
 **immutible architecture** --over -> **mutable systems**
+
 
 
 
