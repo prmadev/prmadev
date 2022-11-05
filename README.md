@@ -26,25 +26,26 @@ Think of it as:
 
 
 
-### languages that I know
+### My Languages:
+
 <p align="center">
 <img width="200" src="./assets/lua.png" alt="lua">
 <img width="200" src="./assets/gopher.png" alt="go">
 <img width="200" src="./assets/rust.png" alt="rust">
 </p>
 
-### OSs that I know
-
+### My OSes:
 
 <p align="center">
 <img width="200" src="./assets/linux.png" alt="linux">
 <img width="200" src="./assets/nix.png" alt="nix">
 </p>
 
-NixOS is technically a Linux distribution but, 
-it has it has a radically different way of doing things.
+_NixOS is technically a Linux distribution but,_
+_it has it has a radically different way of doing things._
 
-### Databases that I Have Worked With 
+
+### My Databases 
 
 <p align="center">
 <img width="200" src="./assets/redis.png" alt="redis">
