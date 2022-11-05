@@ -26,17 +26,29 @@ Think of it as:
 
 
 
-### technologies that I have worked with
+### languages that I know
 <p align="center">
+<img width="200" src="./assets/lua.png" alt="lua">
 <img width="200" src="./assets/gopher.png" alt="go">
 <img width="200" src="./assets/rust.png" alt="rust">
-<img width="200" src="./assets/postgresql.png" alt="postgresql">
 </p>
 
+### OSs that I know
+
+
 <p align="center">
+<img width="200" src="./assets/linux.png" alt="linux">
 <img width="200" src="./assets/nix.png" alt="nix">
-<img width="200" src="./assets/lua.png" alt="lua">
+</p>
+
+NixOS is technically a Linux distribution but, 
+it has it has a radically different way of doing things.
+
+### Databases that I Have Worked With 
+
+<p align="center">
 <img width="200" src="./assets/redis.png" alt="redis">
+<img width="200" src="./assets/postgresql.png" alt="postgresql">
 <img width="200" src="./assets/mongodb.png" alt="mongodb">
 </p>
 
