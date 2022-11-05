@@ -39,7 +39,7 @@ Think of it as:
 
 ### I'm also highly interested in these concepts 
 <p align="center">
-<img width="200" src="./assets/immuatable_architecture.png.png" alt="immutable architecture">
+<img width="200" src="./assets/immuatable_architecture.png" alt="immutable architecture">
 </p>
 
 
