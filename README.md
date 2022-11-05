@@ -1,22 +1,21 @@
 ### Call me Amir
 
-#### I'm A project in development since 1993.
+#### I'm A Project in Development Since 1993.
 
-<p align="right">
+<p align="center">
 <img width="200" src="./assets/avatar.png" alt="me, in pixel form">
 </p>
-Hi there! As you may have already guessed, My name is Amir.
 
-I'm a back-end developer.
+Hi there! As you may have already guessed, My name is Amir. I'm a back-end developer.
 
 I'm passionate for developing software that once they work,
 they work forever. Which means having some more overhead,
 but less bugs and legacy.
 
 Think of it as
-**static languages** over **dynamic languages**
-**strong type-system** over **weak type-system** 
-**immutible architecture** over **mutable systems**
+**static languages** -- over -> **dynamic languages**
+**strong type-system** --over -> **weak type-system** 
+**immutible architecture** --over -> **mutable systems**
 
 
 
