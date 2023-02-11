@@ -15,16 +15,18 @@ but less bugs and legacy.
 Think of it as:
 
 <p align="center">
-
+  
 **static languages** -- over -> **dynamic languages**
 
 **strong type-system** -- over -> **weak type-system** 
 
 **immutible architecture** -- over -> **mutable systems**
-
+  
 </p>
 
-
+<p align="center">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=amirography&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5cat" alt="me, in pixel form">
+</p>
 
 ### My Languages:
 
