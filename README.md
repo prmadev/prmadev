@@ -7,20 +7,7 @@
 </p>
 
 Hi there! As you may have already guessed, My name is Amir. I'm a back-end developer.
-
-I'm passionate for developing software that once they work,
-they work forever. Which means having some more overhead,
-but less bugs and legacy.
-
-Think of it as:
-
-<p align="center">
-  
-**static languages** -- over -> **dynamic languages**
-
-**strong type-system** -- over -> **weak type-system** 
-
-**immutible architecture** -- over -> **mutable systems**
+And my bosses love my results and hate my advocacy of less known technologies. (like rust, which is less known... in here... yeah I know!)
   
 </p>
 
