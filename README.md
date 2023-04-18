@@ -7,7 +7,7 @@
 </p>
 
 Hi there! As you may have already guessed, My name is Amir. I'm a back-end developer.
-And my bosses love my results and hate my advocacy of less known technologies. (like rust, which is less known... in here... yeah I know!)
+And my bosses love my results and hate my advocacy of less known technologies. (Like Rust, which is less known... in here... yeah I know!)
   
 </p>
 
