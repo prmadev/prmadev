@@ -12,7 +12,7 @@ And my bosses love my results and hate my advocacy of less known technologies. (
 </p>
 
 <p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=amirography&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5cat" alt="me, in pixel form">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=prmadev&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5cat" alt="me, in pixel form">
 </p>
 
 ### My Stack:
