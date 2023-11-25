@@ -1,3 +1,13 @@
+```
+NOTICE: I have moved on to sourcehut (https://sr.ht/~prma)
+        My activity here merely mirrors my sourcehut.
+
+        In some casese, I'm not even posting the same content here.
+        And for work stuff, which I don't  have much choice on.
+        Why you may ask? Well, Sourcehut focused on developing for Git
+        instead of AI crap and vendor lock-in and now it has superior
+        git worklow, superior CI and a much more delightful business model.
+```
 ### Call me Perma 
 
 #### I'm A Project in Development Since 1993.
@@ -6,7 +16,7 @@
 <img width="200" src="./assets/avatar.png" alt="me, in pixel form">
 </p>
 
-Hi there! As you may have already guessed, My name is Amir. I'm a back-end developer.
+Hi there! As you may have already guessed, My name is Perma. I'm a back-end developer.
 And my bosses love my results and hate my advocacy of less known technologies. (Like Rust, which is less known... in here... yeah I know!)
 
 </p>
@@ -59,25 +69,10 @@ it has it has a radically different way of doing things.
 │  │ Functional Programming   │       │
 │  └──────────────────────────┘       │
 │  ┌──────────────────────────┐       │
-│  │ Para Computing           │       │
+│  │ Parma Computing          │       │
 │  └──────────────────────────┘       │
 └─────────────────────────────────────┘                
 ```
-
-<!--
-**amirography/amirography** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
